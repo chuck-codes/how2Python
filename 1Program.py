@@ -39,74 +39,29 @@ while flag== True:
 '''Takes a users name, age, email address'''
 '''Name[string]     Age[int]   Email Address[string]'''
 ''' no numbers        >9        text@text.domain'''
-def gatherDetails():
-    while True:
-        #Get Name
-        try:
-            myName= str(input('What is your name? '))
-        except:
-            print(f'{myName} is not the kind of name I recognize. Please try again')
-        #Get Age
-        try:
-            myAge= int(input('What is your age? '))
-        except:
-            myAge= int(input('Please try a number '))
-        #Get Email
-        try:
-            myEmail= str(input('Please enter your email '))
-        except:
-            print(f'{myEmail} is not the kind of name I recognize. Please try again')
-        
-        return myName, myAge, myEmail
 
-
-
-
-testName, testAge, testEmail= gatherDetails()
-print(f'My test name is {testName} My test Age is {testAge} and my test email is {testEmail}')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''
 def gatherDetails():
     myName= input('What is your name? ')
     myAge= input('What is your age? ')
+    while True:
+        try:
+            myAge= int(myAge)
+            if myAge >0:
+                break
+            else:
+                myAge= input('Please enter a postive number for your age: ')
+        except:
+            myAge= input('Please enter a number for your age: ')
     myEmail= input('What is your email? ')
+    #print(f'My test name is {testName} My test Age is {testAge} and my test email is {testEmail}')
+    return myName, myAge, myEmail
 
 
+def add2DB(age, name, email):
+    f = open("userDB.txt", "w")
+    f.write(f"{age} | {name} | {email}")
+    f.close()
+    print('All done')
 
-
-
-
-
-
-try:
-    myName= str(myName)
-except:
-    print(f'{myName} is not the kind of name I recognize. Please try again')
-
-'''
+testName, testAge, testEmail= gatherDetails()
+add2DB(testName,testAge,testEmail)
