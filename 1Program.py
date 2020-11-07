@@ -58,10 +58,36 @@ def gatherDetails():
 
 
 def add2DB(age, name, email):
-    f = open("userDB.txt", "w")
-    f.write(f"{age} | {name} | {email}")
+    f = open("userDB.txt", "a+")
+    f.write(f"{age} | {name} | {email}\n")
     f.close()
     print('All done')
 
-testName, testAge, testEmail= gatherDetails()
-add2DB(testName,testAge,testEmail)
+
+
+def main():
+    flag= True
+    while flag== True:
+        isDone= input('Do you want to stop? (Type "yes" to stop) ')
+        if isDone.lower()== "yes":
+            flag= False
+            print('Thanks for playing')
+            
+        else:
+            testName, testAge, testEmail= gatherDetails()
+            add2DB(testName,testAge,testEmail)
+            
+
+
+main()
+'''
+How to determine a single value for a user in organized data
+f = open("userDB.txt", "r")
+lines= f.readlines()
+f.close()
+person1= lines[0]
+#print(person1)
+p1= person1.split('|')
+#print(p1)
+print(p1[1])
+'''
