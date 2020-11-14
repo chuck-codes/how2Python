@@ -1,99 +1,99 @@
-Bob Hope | 10 | art@happytrees.com | True
-Julie | 12 | julie@notacop.com
-Killer Mike | 13 | killermike@music.com
-Cindy Meyer | 13 | cmeyer@site.com
-Eiliyah Reyna | 16 | ereyna@coolsite.com
-Dhruv Gregory | 16 | Dgregory@anothersite.com
-Dominic Rodrigues | 11 | drodrigues@coolsite.com
-Willard Alexander | 12 | walexandre@totallyrealsite.com
-Eryk Colon | 11 | ecolon@issarealsite.com
-Nojus Mill | 10 | nMill@emailwebsite.com
-Shelbie Cross | 12 | scross@coolsite.com
-Ziggy Kenny | 17 | 
-King Neale | 13 |
-Bethan Robins | 12 |
-Tayyib David | 10 |
-Christy Guest | 16 |
-Chaim Roach | 16 |
-Marcelina Vega | 11 |
-Konrad Gutierrez | 15 |
-Delores Dougherty | 19 |
-Fabien Hayden | 16 |
-Amin Kirkpatrick | 15 |
-Anna-Marie Edmonds | 14 |
-Douglas Cantu | 17 |
-Humaira Bain | 15 |
-Jarod Mueller | 15 |
-Ariah Sloan | 15 |
-Korey Foley | 16 |
-Aiza Parra | 15 |
-Aayush Emerson | 14 |
-Tyreke Melton | 18 |
-Marek Doyle | 17 |
-Eoghan Moses |17 |
-Anas Oneal | 16 |
-Michaela Ellwood | 15 |
-Hamza Wright | 15 |
-Portia Hulme | 17 |
-Rome Almond | 16 |
-Aden Vaughn | 13 |
-Sylvia Woodcock | 12 |
-Bonita Lugo | 12 |
-Shaan Giles | 14 |
-Lottie O'Gallagher | 14 |
-Amy-Leigh Gilmour | 15 |
-Sioned Curtis | 15 |
-Abiha Drew | 14 |
-Laura Maddox | 15 |
-Cristiano Mcghee | 16 |
-Huxley Mcpherson | 16 |
-Alessia Walton | 15 |
-Tyler-Jay Mcgregor | 16 |
-Mihai Powers | 15 |
-Ines Brooks | 14 |
-Yaseen Morrow | 14 |
-Dotty Lambert | 16 |
-Donnie Medrano | 15 |
-Alexie Griffiths | 14 |
-Mimi Delacruz | 13 |
-Roger Mclellan | 15 |
-Izzie Lee | 16 |
-Esa Gibbs | 15 |
-Mateusz Holden | 15 |
-Jarrod Salas | 17 |
-Murphy Hayes | 13 |
-Jamil Stubbs | 15 |
-Aneesah Richmond | 17 |
-Dale Whelan | 16 |
-Casey Newton | 15 |
-Tymon Zhang | 13 |
-Mattie Bains | 12 |
-Zacharia Joyce | 13 |
-Raveena Shaw | 17 |
-Hayden Cotton | 15 |
-Yassin Carson | 12 |
-Cohan Rigby | 13 |
-Tanner Lin | 14 |
-Aliyah Rees | 15 |
-Kiefer Richards | 14 |
-Ottilie Thomas | 14 |
-Keeva Stuart | 16 |
-Aaryan Hays | 15 |
-Kunal Mohammed | 15 |
-Tony Armstrong | 17 |
-Neive Knott | 16 |
-Kymani Fulton | 13 |
-Mirza Brookes | 14 |
-Nina Palmer | 15 |
-Deanne Leech | 17 |
-Cameron Edge | 16 |
-Arran Weston | 15 |
-Maryam Guevara | 15 |
-Anthony Wall | 16 |
-Riley-James Mccartney | 17 |
-Salahuddin Hardin | 16 |
-Liana Banks | 12 |
-Elyas Hastings | 13 |
-Ellie-Mai Archer | 14 |
-Tilly-Mae Rojas | 14 |
-Catrin Marks | 15 |
+Bob Hope | 10 | art@happytrees.com | TRUE
+Julie | 12 | julie@notacop.com | TRUE
+Killer Mike | 13 | killermike@music.com | TRUE
+Cindy Meyer | 13 | cmeyer@site.com | TRUE
+Eiliyah Reyna | 16 | ereyna@coolsite.com | TRUE
+Dhruv Gregory | 16 | Dgregory@anothersite.com | TRUE
+Dominic Rodrigues | 11 | drodrigues@coolsite.com | FALSE
+Willard Alexander | 12 | walexandre@totallyrealsite.com | TRUE
+Eryk Colon | 11 | ecolon@issarealsite.com | TRUE
+Nojus Mill | 10 | nMill@emailwebsite.com | TRUE
+Shelbie Cross | 12 | scross@coolsite.com | FALSE
+Ziggy Kenny | 17 | scarolan@me.com | FALSE
+King Neale | 13 | aschmitz@att.net | FALSE
+Bethan Robins | 12 | twoflower@me.com | FALSE
+Tayyib David | 10 | eegsa@icloud.com | FALSE
+Christy Guest | 16 | rattenbt@mac.com | FALSE
+Chaim Roach | 16 | murty@yahoo.com | FALSE
+Marcelina Vega | 11 | pgolle@att.net | TRUE
+Konrad Gutierrez | 15 | benits@yahoo.com | TRUE
+Delores Dougherty | 19 | skythe@icloud.com | TRUE
+Fabien Hayden | 16 | maratb@optonline.net | FALSE
+Amin Kirkpatrick | 15 | jespley@icloud.com | FALSE
+Anna-Marie Edmonds | 14 | alastair@comcast.net | FALSE
+Douglas Cantu | 17 | dbanarse@comcast.net | FALSE
+Humaira Bain | 15 | cfhsoft@att.net | FALSE
+Jarod Mueller | 15 | paley@outlook.com | FALSE
+Ariah Sloan | 15 | dowdy@live.com | TRUE
+Korey Foley | 16 | mavilar@outlook.com | TRUE
+Aiza Parra | 15 | nullchar@verizon.net | TRUE
+Aayush Emerson | 14 | xnormal@verizon.net | FALSE
+Tyreke Melton | 18 | unreal@mac.com | FALSE
+Marek Doyle | 17 | msusa@me.com | FALSE
+Eoghan Moses | 17 | catalog@sbcglobal.net | FALSE
+Anas Oneal | 16 | citadel@mac.com | FALSE
+Michaela Ellwood | 15 | dougj@yahoo.ca | FALSE
+Hamza Wright | 15 | devphil@comcast.net | FALSE
+Portia Hulme | 17 | garyjb@att.net | FALSE
+Rome Almond | 16 | wildixon@aol.com | FALSE
+Aden Vaughn | 13 | mallanmba@gmail.com | FALSE
+Sylvia Woodcock | 12 | specprog@icloud.com | TRUE
+Bonita Lugo | 12 | jadavis@verizon.net | TRUE
+Shaan Giles | 14 | salesgeek@yahoo.com | TRUE
+Lottie O'Gallagher | 14 | haddawy@sbcglobal.net | FALSE
+Amy-Leigh Gilmour | 15 | fluffy@gmail.com | FALSE
+Sioned Curtis | 15 | rnelson@icloud.com | FALSE
+Abiha Drew | 14 | shazow@me.com | FALSE
+Laura Maddox | 15 | pmint@optonline.net | FALSE
+Cristiano Mcghee | 16 | kostas@aol.com | TRUE
+Huxley Mcpherson | 16 | yfreund@mac.com | TRUE
+Alessia Walton | 15 | luebke@outlook.com | TRUE
+Tyler-Jay Mcgregor | 16 | mbrown@verizon.net | FALSE
+Mihai Powers | 15 | mschwartz@outlook.com | FALSE
+Ines Brooks | 14 | bcevc@hotmail.com | FALSE
+Yaseen Morrow | 14 | fallorn@outlook.com | FALSE
+Dotty Lambert | 16 | bockelboy@gmail.com | FALSE
+Donnie Medrano | 15 | jdhedden@yahoo.com | TRUE
+Alexie Griffiths | 14 | hamilton@aol.com | TRUE
+Mimi Delacruz | 13 | gemmell@gmail.com | TRUE
+Roger Mclellan | 15 | leakin@aol.com | FALSE
+Izzie Lee | 16 | dowdy@outlook.com | FALSE
+Esa Gibbs | 15 | grothoff@gmail.com | FALSE
+Mateusz Holden | 15 | oevans@gmail.com | FALSE
+Jarrod Salas | 17 | seebs@optonline.net | FALSE
+Murphy Hayes | 13 | kevinm@me.com | FALSE
+Jamil Stubbs | 15 | cgreuter@outlook.com | FALSE
+Aneesah Richmond | 17 | yangyan@gmail.com | FALSE
+Dale Whelan | 16 | helger@sbcglobal.net | FALSE
+Casey Newton | 15 | sjmuir@comcast.net | FALSE
+Tymon Zhang | 13 | inico@msn.com | TRUE
+Mattie Bains | 12 | rbarreira@yahoo.com | TRUE
+Zacharia Joyce | 13 | sakusha@gmail.com | TRUE
+Raveena Shaw | 17 | grossman@comcast.net | FALSE
+Hayden Cotton | 15 | sbmrjbr@live.com | FALSE
+Yassin Carson | 12 | reziac@yahoo.ca | FALSE
+Cohan Rigby | 13 | fviegas@yahoo.ca | FALSE
+Tanner Lin | 14 | mfleming@icloud.com | FALSE
+Aliyah Rees | 15 | gravyface@yahoo.com | TRUE
+Kiefer Richards | 14 | violinhi@yahoo.com | TRUE
+Ottilie Thomas | 14 | dbanarse@me.com | TRUE
+Keeva Stuart | 16 | errxn@hotmail.com | FALSE
+Aaryan Hays | 15 | luvirini@aol.com | FALSE
+Kunal Mohammed | 15 | bryanw@icloud.com | FALSE
+Tony Armstrong | 17 | kuparine@mac.com | TRUE
+Neive Knott | 16 | mallanmba@aol.com | TRUE
+Kymani Fulton | 13 | hellfire@me.com | TRUE
+Mirza Brookes | 14 | specprog@mac.com | FALSE
+Nina Palmer | 15 | hahiss@yahoo.com | FALSE
+Deanne Leech | 17 | kdawson@yahoo.ca | FALSE
+Cameron Edge | 16 | cyrus@att.net | FALSE
+Arran Weston | 15 | dwendlan@me.com | FALSE
+Maryam Guevara | 15 | emmanuel@sbcglobal.net | TRUE
+Anthony Wall | 16 | andersbr@yahoo.ca | TRUE
+Riley-James Mccartney | 17 | ghaviv@gmail.com | TRUE
+Salahuddin Hardin | 16 | crowemojo@outlook.com | TRUE
+Liana Banks | 12 | gbacon@msn.com | TRUE
+Elyas Hastings | 13 | brainless@gmail.com | TRUE
+Ellie-Mai Archer | 14 | osaru@yahoo.ca | FALSE
+Tilly-Mae Rojas | 14 | konst@sbcglobal.net | FALSE
+Catrin Marks | 15 | jaesenj@icloud.com | FALSE
