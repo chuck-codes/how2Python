@@ -64,15 +64,50 @@ def add2DB(age, name, email):
     print('All done')
 
 
+def countByAge():
+    count = 0
+    #read list of users
+    f = open("userDB.txt", "r")
+    listOUsers= f.readlines()
+    #print(listOUsers)
+    #determine a specfic users age
+    for user in listOUsers:
+        userInfo= user.split('|')
+        userAge= userInfo[1]
+        #count if age meets requirements
+        if int(userAge) <= 16:
+            count+= 1
+    return count
+
+def countVerified_xcarve():
+    count = 0
+    #read list of users
+    f = open("userDB.txt", "r")
+    listOUsers= f.readlines()
+    #print(listOUsers)
+    #determine a specfic users age
+    for user in listOUsers:
+        userInfo= user.split('|')
+        userVerified= userInfo[3]
+        print(userVerified)
+        #count if age meets requirements
+        if userVerified == 'TRUE\n':
+            count+= 1
+    return count
+
 
 def main():
     flag= True
     while flag== True:
         isDone= input('Do you want to stop? (Type "yes" to stop) ')
         if isDone.lower()== "yes":
+            checkAge= input('Do you want to know how many people are verified on the xcarve? (Type "yes" or "no") ')
+            if checkAge.lower()== "yes":
+                print(countVerified_xcarve())
+            else:
+                pass
             flag= False
-            print('Thanks for playing')
-            
+            print('Thanks for playing')    
         else:
             testName, testAge, testEmail= gatherDetails()
             add2DB(testName,testAge,testEmail)
@@ -80,6 +115,7 @@ def main():
 
 
 main()
+
 '''
 How to determine a single value for a user in organized data
 f = open("userDB.txt", "r")

@@ -97,3 +97,4 @@ Elyas Hastings | 13 | brainless@gmail.com | TRUE
 Ellie-Mai Archer | 14 | osaru@yahoo.ca | FALSE
 Tilly-Mae Rojas | 14 | konst@sbcglobal.net | FALSE
 Catrin Marks | 15 | jaesenj@icloud.com | FALSE
+James | 67 | jameSpader@website.com | TRUE
